@@ -150,45 +150,49 @@
         <div class="pl-3 pt-2">
           <div class="mb-8">
             <h2 class="h5 mt-0 mb-1">
-              초연결사회의 전환활동 연구
-              <span class="text-xs py-0.5 px-1 align-middle bg-pink-700 text-white mr-1">인터뷰</span>
+              Study on Transformation Activities in Hyperconnected Society
+              <span class="text-xs py-0.5 px-1 align-middle bg-pink-700 text-white mr-1">Interview</span>
             </h2>
             <div class="pl-3">
-              <p class="font-sans font-semibold mb-1"><font-awesome icon="map-marker-alt" /> 서울연구원</p>
+              <p class="text-sm font-sans mb-2">초연결사회의 전환활동 연구</p>
+              <p class="font-sans font-semibold mb-1"><font-awesome icon="map-marker-alt" /> Seoul Institute</p>
               <p class="text-sm font-sans mb-1">January, 2021</p>
             </div>
           </div>
 
           <div class="mb-8">
             <h2 class="h5 mt-0 mb-1">
-              데이터 액티비즘과 시빅해킹
-              <span class="text-xs py-0.5 px-1 align-middle bg-green-700 text-white mr-1">강연</span>
+              Data Activism and Civic Hacking
+              <span class="text-xs py-0.5 px-1 align-middle bg-green-700 text-white mr-1">Lecture</span>
             </h2>
             <div class="pl-3">
-              <p class="font-sans font-semibold mb-1"><font-awesome icon="map-marker-alt" /> 빠띠, 광주광역시 청소년 삶디자인센터</p>
+              <p class="text-sm font-sans mb-2">데이터 액티비즘과 시빅해킹</p>
+              <p class="font-sans font-semibold mb-1"><font-awesome icon="map-marker-alt" /> Parti, Gwangju Youth Life Design Center</p>
               <p class="text-sm font-sans mb-1">December, 2020</p>
             </div>
           </div>
 
           <div class="mb-8">
             <h2 class="h5 mt-0 mb-1">
-              장관이 된 천재 해커, 오드리 탕이 꿈꾸는 '좋은 삶'
-              <span class="text-xs py-0.5 px-1 align-middle bg-green-700 text-white mr-1">강연</span>
+              A genius hacker who became a minister, Audrey Tang dreams of'good life'
+              <span class="text-xs py-0.5 px-1 align-middle bg-green-700 text-white mr-1">Lecture</span>
             </h2>
             <div class="pl-3">
-              <p class="font-sans font-semibold mb-1"><font-awesome icon="map-marker-alt" /> AYARF, 크리킨디센터<small>(은평청소년문화의집)</small></p>
+              <p class="text-sm font-sans mb-2">장관이 된 천재 해커, 오드리 탕이 꿈꾸는 '좋은 삶'</p>
+              <p class="font-sans font-semibold mb-1"><font-awesome icon="map-marker-alt" /> AYARF, KURIKINDI CENTER<small>(Eunpyeong Youth Culture House)</small></p>
               <p class="text-sm font-sans mb-1">November, 2020</p>
             </div>
           </div>
 
           <div class="mb-0">
             <h2 class="h5 mt-0 mb-1">
-              2020 마스크 앱 백서
-              <span class="text-xs py-0.5 px-1 align-middle bg-blue-700 text-white mr-1">자문 &centerdot; 기고</span>
-              <span class="text-xs py-0.5 px-1 align-middle bg-pink-700 text-white mr-1">인터뷰</span>
+              Mask App White Paper
+              <span class="text-xs py-0.5 px-1 align-middle bg-blue-700 text-white mr-1">Advise &centerdot; Contribution</span>
+              <span class="text-xs py-0.5 px-1 align-middle bg-pink-700 text-white mr-1">Interview</span>
             </h2>
             <div class="pl-3">
-              <p class="font-sans font-semibold mb-1"><font-awesome icon="map-marker-alt" /> 과학기술정보통신부, 한국정보화진흥원</p>
+              <p class="text-sm font-sans mb-2">2020 마스크 앱 백서</p>
+              <p class="font-sans font-semibold mb-1"><font-awesome icon="map-marker-alt" /> Ministry of Science and ICT, Korea National Information Agency</p>
               <p class="text-sm font-sans mb-1">August, 2020</p>
             </div>
           </div>
@@ -200,12 +204,12 @@
         <hr class="my-2 w-6 border-black dark:border-gray-400 border-b-2">
         <div class="pl-3 pt-2">
           <div class="mb-4">
-            <h2 class="h5 mt-0 mb-1">한국어 <small>Korean</small></h2>
+            <h2 class="h5 mt-0 mb-1">Korean <small>한국어</small></h2>
             <p class="font-sans font-semibold">Native</p>
           </div>
 
           <div class="mb-0">
-            <h2 class="h5 mt-0 mb-1">영어 <small>English</small></h2>
+            <h2 class="h5 mt-0 mb-1">English <small>영어</small></h2>
             <p class="font-sans font-semibold">Intermediate</p>
           </div>
         </div>
