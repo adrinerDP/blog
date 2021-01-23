@@ -9,6 +9,12 @@ module.exports = {
   siteDescription: "이것 저것 건들여 보는 개발노트",
   plugins: [
     {
+      use: '@gridsome/plugin-google-analytics',
+      options: {
+        id: 'UA-177518491-1'
+      }
+    },
+    {
       use: 'gridsome-plugin-tailwindcss',
       options: {
         tailwindConfig: './tailwind.config.js',
