@@ -11,33 +11,33 @@ blockquote {
 }
 
 h1, .h1 {
-  @apply font-sans my-4 font-medium;
-  @include font-size(3rem);
+  @apply font-sans my-4 font-semibold;
+  @include font-size(2.5rem);
 
 }
 
 h2, .h2 {
-  @apply font-sans my-4 font-medium;
-  @include font-size(2.25rem);
+  @apply font-sans my-4 font-semibold;
+  @include font-size(2rem);
 }
 
 h3, .h3 {
-  @apply font-sans my-4 font-medium;
-  @include font-size(1.875rem);
+  @apply font-sans my-4 font-semibold;
+  @include font-size(1.75rem);
 }
 
 h4, .h4 {
-  @apply font-sans my-4 font-medium;
+  @apply font-sans my-4 font-semibold;
   @include font-size(1.5rem);
 }
 
 h5, .h5 {
-  @apply font-sans my-4 font-medium;
+  @apply font-sans my-4 font-semibold;
   @include font-size(1.25rem);
 }
 
 h6, .h6 {
-  @apply font-sans my-4 font-medium;
+  @apply font-sans my-4 font-semibold;
   @include font-size(1.125rem);
 }
 
