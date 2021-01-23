@@ -1,0 +1,19 @@
+{
+    "social" : [
+        {
+            "name": "Facebook",
+            "link": "https://www.facebook.com/adrinerDP",
+            "icon": "facebook-square"
+        },
+        {
+            "name": "Instagram",
+            "link": "https://www.instagram.com/adrinerdp",
+            "icon": "instagram"
+        },
+        {
+            "name": "Github",
+            "link": "https://github.com/adrinerDP",
+            "icon": "github"
+        }
+    ]
+}

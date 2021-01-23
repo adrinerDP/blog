@@ -1,0 +1,29 @@
+{
+  "headerNavigation": [
+    {
+      "name": "Blog",
+      "link": "/",
+      "external": false,
+      "icon": "pen-square"
+    },
+    {
+      "name": "About",
+      "link": "/about",
+      "external": false,
+      "icon": "info-circle"
+    },
+    {
+      "name": "Activities",
+      "link": "/category/activities",
+      "external": false,
+      "icon": "medal"
+    }
+  ],
+  "footerNavigation": [
+    {
+      "name": "RSS",
+      "link": "/rss.xml",
+      "external": false
+    }
+  ]
+}
