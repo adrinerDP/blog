@@ -41,6 +41,11 @@ h6, .h6 {
   @include font-size(1.125rem);
 }
 
+p {
+  @apply font-serif;
+  line-height: 1.6;
+}
+
 
 @tailwind components;
 @tailwind utilities;
