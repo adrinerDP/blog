@@ -1,5 +1,5 @@
 ---
-title: Troes retardat
+title: "제목 테스트"
 tags: tag1, tag2
 category: Activities
 excerpt: Lorem markdownum aptos pes, Inachidos caput corrumpere! Vincere ferocia arva.
@@ -7,7 +7,7 @@ created: 2019-01-10
 image: ./images/josh-spires-dronenr-sQalFlXIsLs-unsplash.jpg
 image_caption: Photo by Josh Spires on Unsplash
 author: adrinerDP
-featured: false
+featured: true
 ---
 
 ## Ossa narrat sortita fecerat sit conataque

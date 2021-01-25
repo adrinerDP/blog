@@ -1,9 +1,3 @@
-// This is where project configuration and plugin options are located.
-// Learn more: https://gridsome.org/docs/config
-
-// Changes here require a server restart.
-// To restart press CTRL + C in terminal and run `gridsome develop`
-
 module.exports = {
   siteName: '매드라이너의 서브노트',
   siteDescription: "이것 저것 건들여 보는 개발노트",
@@ -97,7 +91,10 @@ module.exports = {
   },
   templates: {
     Blog: [{
-      path: '/posts/:title'
+      path: (node) => {
+        const postPathPrefix = /^\/content\/posts/;
+        return node.path.replace(postPathPrefix, '');
+      }
     }],
     CustomPage: [{
       path: '/:title',
